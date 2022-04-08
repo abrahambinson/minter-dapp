@@ -5,7 +5,7 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Gochi Hand", sans-serif;
+  --font-primary: "Gochi Hand", Gochi Hand;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #16003f;
